@@ -1,0 +1,2 @@
+name=dut_a1_bpo1_threespotgame
+description=projet threespotgame
