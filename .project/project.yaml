@@ -1,0 +1,8 @@
+name: "dut_a1_bpo1_threespotgame"
+description: "projet threespotgame"
+topics: []
+homepage: ""
+source:
+  provider: gitlab
+  namespace: "sachahjkl"
+  path: "sachahjkl/dut_a1_bpo1_threespotgame"
